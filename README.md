@@ -4,4 +4,4 @@ Welcome to my project! Click the links below to instantly view or download the p
 
 * 📄 [Read the Research Report (PDF)](Research_Report.pdf)
 * 📊 [Download the Excel DCF Model](https://github.com/kcook0121/apple-equity-research/raw/main/Apple%20DCF%20Model.xlsx)
-* 📈 [Download the Power BI Dashboard File]([https://github.com](https://github.com/kcook0121/apple-equity-research/raw/main/Apple%20Equity%20Research%20Dashboard.pbix)
+* 📈 [Download the Power BI Dashboard](https://github.com/kcook0121/apple-equity-research/raw/main/Apple%20Equity%20Research%20Dashboard.pbix)
